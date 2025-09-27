@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../ai-prompt-gallery/app"
+		},
+		{
+			"path": "../ai-prompt-gallery/components"
+		},
+		{
+			"path": "../ai-prompt-gallery/lib"
+		},
+		{
+			"path": "../ai-prompt-gallery/scripts"
+		}
+	]
+}
